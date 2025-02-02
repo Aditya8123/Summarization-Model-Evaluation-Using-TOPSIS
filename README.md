@@ -76,3 +76,13 @@ python analysis.py
 The script will generate:
 - **TOPSIS Results:** A list of models ranked by their TOPSIS scores.
 - **Visualizations:** A series of visual plots, including bar charts, heatmaps, and box plots.
+
+
+---
+![image](https://github.com/user-attachments/assets/c7d2600c-96ab-4da8-b176-3d3569b8ed49)
+![image](https://github.com/user-attachments/assets/ae48820d-f238-4f95-8ab2-f73a085978a6)
+![image](https://github.com/user-attachments/assets/aaa05352-9de5-407a-a231-b711b1fd9fac)
+![image](https://github.com/user-attachments/assets/195c8eb3-0b19-427f-9094-cd1ba5fc9943)
+![image](https://github.com/user-attachments/assets/4aee5fa9-163b-40f4-a0c8-e5b4ccc82f8d)
+
+
